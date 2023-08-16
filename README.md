@@ -1,1 +1,13 @@
 # CS340-Grazioso-Salvare
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future? 
+
+When creating my CRUD Python module, I broke down the functionality I needed into functions, each responsible for a specific task. The methods included create, read, update, and delete. This promotes reusability and makes it easier to understand the code. I also used consistent formatting throughout the code to enhance readability. The advantages of working in this way is that I can reuse this CRUD module across multiple projects. I could use this CRUD module in the future with new projects that need to connect to a database and make changes to include new features or improvements. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests? 
+
+I approach a problem as a computer scientist by gaining an understanding of the issue and modeling solutions until I reach the answer. I approached the database requirements by first gaining a full understanding of what they needed. Then I modeled the changes that would need to be implemented in my code to add functionality. I then began to make changes to the code and tested each function as it was implemented. This prevented issues from occurring further down in the development process. A technique I would use in the future when creating databases for other clients is gaining a better understanding of the schema they would need for the database to make sure all values are included in the table. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better? 
+
+Computer scientists are professionals who design and develop solutions to various computing problems. The work matters because they play a crucial role in creating solutions that empower businesses like Grazioso Salvare to work more effectively. My work on the Grazioso Salvare dashboard will help them better manage their animal rescue operations, make informed decisions, and optimize their resources. By using technology to streamline processes the company can focus more on rescuing and caring for animals.
